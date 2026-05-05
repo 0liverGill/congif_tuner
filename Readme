@@ -19,9 +19,9 @@ pip install -r requirements.txt
 
 run the comparison file
 
-python3 hello_world.py
+python3 attempt/Comparison.py
 
-(or python hello_world.py on windows)
+(or python attempt/Comparison.py on windows)
 
 
 

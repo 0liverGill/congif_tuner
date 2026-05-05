@@ -1,1 +1,31 @@
 # congif_tuner
+
+
+
+To run the code clone into the repo then
+
+On windows:
+
+python -m venv venv
+.\venv\Scripts\activate
+
+On linux/Mac:
+
+python3 -m venv venv
+source venv/bin/activate
+
+
+Download requirments
+
+pip install -r requirements.txt
+
+
+run the comparison file
+
+python3 attempt/Comparison.py
+
+(or python attempt/Comparison.py on windows)
+
+
+
+NOTE: RUNNING THE COMPARISON MAY TAKE SOME TIME
